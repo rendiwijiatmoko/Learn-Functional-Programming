@@ -1,5 +1,8 @@
 # Functional Programming
-![functional programming](./img/fjs.png#center)
+<p align="center">
+  <img src="./img/fjs.png">
+</p>
+
 ## Pure Function
 > Pure function is a function that, given the same inputs, will always return the same outputs.
 
