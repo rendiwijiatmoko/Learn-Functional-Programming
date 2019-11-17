@@ -1,5 +1,5 @@
 ## Pure Function
-> Pure funtion is a funtion that, given the same inputs, will always return the same outputs.
+> Pure function is a function that, given the same inputs, will always return the same outputs.
 
 there are some rules to write FP(Functional Programming) style:
 1. Function must be pure
