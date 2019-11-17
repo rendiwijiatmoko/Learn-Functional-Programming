@@ -1,3 +1,5 @@
+# Functional Programming
+!(functional programming)[./img/fjs.png]
 ## Pure Function
 > Pure function is a function that, given the same inputs, will always return the same outputs.
 
