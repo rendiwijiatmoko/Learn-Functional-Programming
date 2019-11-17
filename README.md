@@ -57,3 +57,6 @@ addUsingMath(3); // 9
 Immutable data structures are data structures that cannot be changed(mutated) after they are created. This has the advantage that we avoid `side-effects`, where a process can affect the value of a variable globally and cause errors that are relatively difficult to debug.
 
 Let's look at an example in file `2. immutablity-VS-mutability.js`.
+
+## Higher Order Functions
+Higher-Order-Functions (HOC) are functions that accept arguments or parameters in the form of functions. Before hearing the HOC, maybe we've heard a callback in JavaScript. Yes, a callback function is a function that is sent as a parameter to the HOC. The simplest example of implementing a HOC is the filter function.
