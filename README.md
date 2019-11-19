@@ -60,3 +60,8 @@ Let's look at an example in file `2. immutablity-VS-mutability.js`.
 
 ## Higher Order Functions
 Higher-Order-Functions (HOC) are functions that accept arguments or parameters in the form of functions. Before hearing the HOC, maybe we've heard a callback in JavaScript. Yes, a callback function is a function that is sent as a parameter to the HOC. The simplest example of implementing a HOC is the filter function.
+
+## Currying
+Currying is the process of taking a function with multiple arguments and returning a series of functions that take one argument and eventually resolve to a value.
+
+Let's look at an example in file `4. Currying.js`.
